@@ -1,0 +1,16 @@
+-Modify txt "The hare and the turtle".
+
+git add . 
+
+git commit -m "Commit for step 5"
+
+git push origin master 
+
+-Step 6 Create a txt and add it to the repository.
+
+git add . 
+
+git commit -m "Commit for step 5"
+
+git push origin master 
+
